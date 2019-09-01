@@ -1,0 +1,54 @@
+{
+  "uid" : "47e719cde0276335",
+  "name" : "test_0",
+  "fullName" : "test_1#test_0",
+  "historyId" : "debb69768f2f715cfcfa904ea07c89c1",
+  "time" : {
+    "start" : 1565577338394,
+    "stop" : 1565577338394,
+    "duration" : 0
+  },
+  "description" : "计算100之内的和",
+  "descriptionHtml" : "<p>计算100之内的和</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_1"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "lyf"
+  }, {
+    "name" : "thread",
+    "value" : "36136-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47e719cde0276335.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,17 @@
+---
+#注释  ---代表文件的开始
+#转qq登录的id
+qq: com.qk.butterfly:id/v_login_qq
+#登录的class
+denglu: android.widget.Button
+#验证登录成功的（直播的id）
+chenggong: com.qk.butterfly:id/tv_home_live
+#进入我的id(取索引最后一个）
+wode: com.qk.butterfly:id/v_main_tab
+
+#验证是否进入我的界面id
+ting: com.qk.butterfly:id/tv_name
+#验证是否滑动id
+shezhi: com.qk.butterfly:id/v_me_setting
+#设置text 的class
+hua: android.widget.TextView
